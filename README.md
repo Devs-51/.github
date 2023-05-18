@@ -1,3 +1,3 @@
 <div>
-<img src="https://github.com/bastndev/Resources/blob/main/assets/img/Dan-img.png">
+<img src="https://github.com/appwrite/appwrite/blob/master/public/images/github.png">
   </div>
